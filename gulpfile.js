@@ -8,7 +8,7 @@ function bundleBrowser() {
     .pipe(
       esbuild({
         tsconfig: "tsconfig.browser.json",
-        outfile: "bundle.js",
+        outfile: "domore.js",
         sourcemap: "external",
         format: "iife",
         minify: true,
