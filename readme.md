@@ -32,10 +32,10 @@ document.body.appendChild(
 
 ```html
 <div class=section>
-  <img src="./img/0.png" class=card/>
-  <img src="./img/1.png" class=card/>
-  <img src="./img/2.png" class=card/>
-  <img src="./img/3.png" class=card/>
-  <img src="./img/4.png" class=card/>
+  <img src="./img/0.png" class=card />
+  <img src="./img/1.png" class=card />
+  <img src="./img/2.png" class=card />
+  <img src="./img/3.png" class=card />
+  <img src="./img/4.png" class=card />
 </div>
 ```
