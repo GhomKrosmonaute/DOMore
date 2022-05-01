@@ -14,7 +14,7 @@ function bundleBrowser() {
         minify: true,
         bundle: true,
         target: ["chrome58", "firefox57", "safari11", "edge16", "node14"],
-        globalName: "lib",
+        globalName: "DOMore",
         loader: {
           ".ts": "ts",
           ".json": "json",
