@@ -23,7 +23,7 @@ document.body.appendChild(
 // TypeScript  
 import { createElement } from "domore"
 
-console.log(
+document.body.appendChild(
   createElement(".section > img[src='./img/{i}.png'].card*5")
 )
 ```
