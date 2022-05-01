@@ -15,7 +15,7 @@ Library is exported as `DOMore` global variable. Référence in [gulpfile](./gul
 const { createElement } = require("domore")
 
 document.body.appendChild(
-  createElement(".section > img[src=./img/].card(5)")
+  createElement(".section > img[src='./img/{i}.png'].card*5")
 )
 ```
 
